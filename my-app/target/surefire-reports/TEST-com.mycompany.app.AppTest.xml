@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.052" tests="6" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\rashi\Desktop\pitestMavenMutation\PitestMutationTool\my-app\target\test-classes;C:\Users\rashi\Desktop\pitestMavenMutation\PitestMutationTool\my-app\target\classes;C:\Users\rashi\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\rashi\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value="Europe/Berlin"/>
+    <property name="user.country.format" value="SE"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.5_10\bin"/>
+    <property name="sun.java.command" value="C:\Users\rashi\AppData\Local\Temp\surefire1064056345090316518\surefirebooter1397555607620576914.jar C:\Users\rashi\AppData\Local\Temp\surefire1064056345090316518 2021-02-16T23-02-53_457-jvmRun1 surefire18319519591831530942tmp surefire_08808339563769547767tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\rashi\Desktop\pitestMavenMutation\PitestMutationTool\my-app\target\test-classes;C:\Users\rashi\Desktop\pitestMavenMutation\PitestMutationTool\my-app\target\classes;C:\Users\rashi\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\rashi\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\rashi"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-10-15"/>
+    <property name="java.home" value="C:\Program Files\Amazon Corretto\jdk11.0.5_10"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\rashi\Desktop\pitestMavenMutation\PitestMutationTool\my-app"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\rashi\AppData\Local\Temp\surefire1064056345090316518\surefirebooter1397555607620576914.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.5+10-LTS"/>
+    <property name="user.name" value="rashid"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Corretto-11.0.5.10.1"/>
+    <property name="localRepository" value="C:\Users\rashi\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-11/issues/"/>
+    <property name="java.io.tmpdir" value="C:\Users\rashi\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.5"/>
+    <property name="user.dir" value="C:\Users\rashi\Desktop\pitestMavenMutation\PitestMutationTool\my-app"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="user.language.format" value="sv"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="idea.version2019.3.5" value="true"/>
+    <property name="java.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.5_10\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\PYTHON38\SCRIPTS\;C:\PYTHON38\;C:\PROGRAM FILES\AMAZON CORRETTO\JDK11.0.5_10\BIN;C:\WINDOWS\SYSTEM32;C:\WINDOWS;C:\WINDOWS\SYSTEM32\WBEM;C:\WINDOWS\SYSTEM32\WINDOWSPOWERSHELL\V1.0\;C:\WINDOWS\SYSTEM32\OPENSSH\;C:\CYGWIN64\BIN;C:\PROGRAM FILES\SOURCEGEAR\COMMON\DIFFMERGE\;C:\PROGRAMDATA\CHOCOLATEY\BIN;C:\PROGRAM FILES\GIT\CMD;C:\PROGRAM FILES\GIT\MINGW64\BIN;C:\PROGRAM FILES\GIT\USR\BIN;C:\PROGRAM FILES\DOTNET\;C:\Program Files\ASUS\Bluetooth Software\;C:\Program Files\ASUS\Bluetooth Software\syswow64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Calibre2\;C:\Program Files\MavenJar\apache-maven-3.6.3\bin;C:\Users\rashi\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\rashi\AppData\Local\Programs\Python\Python39\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Program Files\Java\jdk-13.0.1\bin;C:\Users\rashi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\rashi\.dotnet\tools;C:\Users\rashi\AppData\Local\Microsoft\WindowsApps;C:\Users\rashi\AppData\Roaming\npm;C:\Program Files\JetBrains\PyCharm Community Edition 2020.3.2\bin;;C:\Program Files\sqlite-tools-win32-x86-3340100;;."/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.5+10-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="subtract" classname="com.mycompany.app.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.mycompany.app.AppTest" time="0"/>
+  <testcase name="divide" classname="com.mycompany.app.AppTest" time="0"/>
+  <testcase name="isPositive" classname="com.mycompany.app.AppTest" time="0.004"/>
+  <testcase name="add" classname="com.mycompany.app.AppTest" time="0"/>
+  <testcase name="multiply" classname="com.mycompany.app.AppTest" time="0"/>
+</testsuite>
