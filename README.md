@@ -24,11 +24,11 @@ Java version: 11.0.........
 3. ### mvn package
 4. ### mvn test
 5. ### mutationCoverage goal
-  1. The mutation coverage goal analyses all classes in the codebase that match the target tests and target classes filters.
+       * The mutation coverage goal analyses all classes that matches the target tests and target classes.
 6. copy paste this code into your commandline to generate mutants and also to check if everything is building succefully.
 7. ## mvn org.pitest:pitest-maven:mutationCoverage
 8. all done here open the project with intellij
-9. you are all settup 
+9. you are all setup 
 10. you need to maybe configure JUnit5 or older version.
 
 11. [Maven apache download](https://maven.apache.org/download.cgi​)
